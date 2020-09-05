@@ -112,6 +112,9 @@ blockquote::after {
 /*	1. Document Setup
 /* -------------------------------------------------------------------------- */
 
+* {
+	border: 3px solid red;
+}
 
 html {
 	font-size: 62.5%; /* 1rem = 10px */
